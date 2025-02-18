@@ -20,7 +20,7 @@ class Note:
         return (f"Date : {self.creation_date}\n"
                 f"{self.title}:{self.text}"
 class Notebook:
-    def __init__(self,
+    def __init__(self)
 
 
 
