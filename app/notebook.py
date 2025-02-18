@@ -14,7 +14,12 @@ class Note:
         self.creation_date: datetime.now()
         self.tags :list[str] =[]
 
-    def add_tags(self,tag: str):
+    def add_tag(self,tag: str):
+
+
+
+
+
 
 
 class Notebook:
